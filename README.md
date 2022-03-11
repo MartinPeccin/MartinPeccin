@@ -4,7 +4,7 @@
 
 My name is Martin , I'm from Argentina and I studied electronic engineering
 
-* Currently working for HCD Bahia Blanca
+* Currently working as IT manager for HCD Bahia Blanca
 
 ## Skills
 
@@ -14,4 +14,4 @@ My name is Martin , I'm from Argentina and I studied electronic engineering
 
 ## Contact
 
-Find all of my socials and resume in my [website](https://www.martinpeccin.com)
+Contact me by mail martin.peccin@gmail.com or in my [website](https://www.martinpeccin.com)
