@@ -4,7 +4,7 @@
 
 My name is Martin , I'm from Argentina and I studied electronic engineering
 
-* Currently working as IT manager for HCD Bahia Blanca
+* Currently working as IT manager for HCD Bahia Blanca, Buenos Aires
 
 ## Skills
 * Electronic technician
