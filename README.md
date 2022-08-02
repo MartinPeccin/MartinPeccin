@@ -10,7 +10,9 @@ My name is Martin , I'm from Argentina and I studied electronic engineering
 * Electronic technician
 * Electronic engineering
 * Critical thinking, decision-making and problem solving skills
-* Some PHP and C++ coding, Sql, ...
+* Some PHP and C++ coding, Sql, HTML, CSS ...
+* IOT Systems, embedded equipments
+* Linux User
 * Special skills and experience on group working.
 
 ## Contact
