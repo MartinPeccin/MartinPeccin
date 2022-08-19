@@ -9,13 +9,16 @@ My name is Martin , BS in Electrical Engineering
 ## Skills
 * Electronic technician
 * Electronic engineer
+* Web Deb
+* Full Stack developer
 * Some PHP and C++ coding, Sql, HTML, CSS ...
-* IOT Systems, embedded equipments
+* IOT Systems
+* Embedded equipments
 * Linux User
 * AWS EC2
 * Special skills and experience on group working.
-* Home LAB 
 * Critical thinking, decision-making and problem solving skills
+* Home LAB
 
 ## Contact
 
