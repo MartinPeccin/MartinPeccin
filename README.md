@@ -11,7 +11,7 @@ My name is Martin - Passionate about technology and teamwork. I love challenges 
 * Electronic technician
 * Web Deb
 * Full Stack developer
-* Some PHP and C++ coding, Sql, HTML, CSS ...
+* PHP and C++ coding, Sql, HTML, CSS.
 * IOT Systems
 * Embedded equipments
 * Linux User
