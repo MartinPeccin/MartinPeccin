@@ -4,7 +4,7 @@
 
 My name is Martin - Passionate about technology and teamwork. I love challenges and being part of the solution.
 
-* Currently working as IT manager for Deliberative Council Bahia Blanca, Buenos Aires
+* Currently working as IT manager for Deliberative Council Bahia Blanca, Buenos Aires. Throughout my career, I have integrated my expertise into various roles, demonstrating proficiency as an IT technical support specialist, web developer, and in IT manager tasks, working with multidisciplinary teams and stakeholders.
 
 ## Skills
 * BS Degree in Electrical Engineering(Electronic engineer)
@@ -16,8 +16,6 @@ My name is Martin - Passionate about technology and teamwork. I love challenges 
 * Embedded equipments
 * Linux User
 * AWS EC2
-* Special skills and experience on group working.
-* Critical thinking, decision-making and problem solving skills
 * Home LAB
 
 ## Contact
